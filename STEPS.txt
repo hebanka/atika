@@ -1,0 +1,9 @@
+أيقونة الدفتر على الشاشة الرئيسية — GitHub Pages (مجاني)
+=========================================
+١) github.com ← Sign up (حساب مجاني).
+٢) ＋ (فوق) ← New repository ← الاسم: atika ← Public ← Create repository.
+٣) «uploading an existing file» ← اسحبي كل ملفات هذا المجلد (index.html + الصور + manifest.json) ← Commit changes.
+٤) Settings ← Pages ← Branch: main ← / (root) ← Save.
+٥) بعد دقيقة يطلع الرابط: https://اسمك.github.io/atika/
+٦) افتحيه في Safari ← مشاركة ⬆️ ← «إضافة إلى الشاشة الرئيسية» ← تطلع أيقونة الدفتر 📒.
+هذا الرابط هو اللي ترسلينه للمعلمات بدل رابط Google (نفس الموقع، بس بالأيقونة).
